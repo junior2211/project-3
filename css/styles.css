@@ -1,0 +1,16 @@
+/* home */
+body {
+  background-image: url(./wall.jpg);
+  width: 100%;
+}
+
+/* end */
+/* contact */
+.table {
+  border: 2px solid black;
+  border-spacing: 25px;
+}
+/* end */
+.text {
+  text-decoration: white;
+}
