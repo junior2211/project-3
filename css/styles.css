@@ -1,16 +1,25 @@
 /* home */
 body {
-  background-image: url(./wall.jpg);
-  width: 100%;
+  background-color: rgba(95, 152, 160, 0.514);
 }
-
+.img {
+  width: 100vh;
+  /* height: 500vh; */
+}
 /* end */
+
 /* contact */
 .table {
   border: 2px solid black;
   border-spacing: 25px;
+  float: left;
 }
 /* end */
+
 .text {
   text-decoration: white;
+  display: flex;
+}
+.style {
+  float: left;
 }
